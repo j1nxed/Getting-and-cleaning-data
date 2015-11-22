@@ -21,5 +21,5 @@ tBodyGyro-Z<br>
 
 Each of these has a mean and standard deviation version. Examples:
 
-tBodyAcc-mean()-X: Mean of base body acceleration data in the X dimension
-tBodyGyro-std()-Y: Standard deviation of base body gyroscope measurement in the Y dimension
+tBodyAcc-mean()-X: Mean of base body acceleration data in the X dimension<br>
+tBodyGyro-std()-Y: Standard deviation of base body gyroscope measurement in the Y dimension<br>
