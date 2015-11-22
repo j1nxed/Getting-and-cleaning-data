@@ -12,12 +12,12 @@ Because most of the features in the original dataset were derived or estimated t
 
 As a result, the variables remaining are just the calculatd means and standard deviations of these sets of data - one each for the X, Y and Z dimensions:
 
-tBodyAcc-X
-tBodyAcc-Y
-tBodyAcc-Z
-tBodyGyro-X
-tBodyGyro-Y
-tBodyGyro-Z
+tBodyAcc-X<br>
+tBodyAcc-Y<br>
+tBodyAcc-Z<br>
+tBodyGyro-X<br>
+tBodyGyro-Y<br>
+tBodyGyro-Z<br>
 
 Each of these has a mean and standard deviation version. Examples:
 
