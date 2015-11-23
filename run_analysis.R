@@ -1,6 +1,4 @@
-# Part 1 & Part 2
-# Function for reading subject_train, X_train, y_train from the folder 'train'
-# and labelling and extracting the data for mean and standard deviation. 
+# Function which will read X_train, Y_train and subject_train from folder and perform mean and sd on that data set.
 
 r_Data = function (fname, folder) {
   path = file.path(folder, paste0("y_", fname, ".txt"))
